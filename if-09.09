@@ -1,0 +1,12 @@
+#<stdio.h>
+#<locale.h>
+
+for (LC_ALL "Portuguese")
+
+
+
+
+int i;
+    for( i = 20 ; i < 41 ; i+=2)
+    if( i % 2 == 0 )
+    printf("%d " , i );
