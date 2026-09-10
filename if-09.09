@@ -3,10 +3,10 @@
 
 for (LC_ALL "Portuguese")
 
+int main(){
 
-
-
-int i;
-    for( i = 20 ; i < 41 ; i+=2)
-    if( i % 2 == 0 )
-    printf("%d " , i );
+	int i;
+	    for( i = 20 ; i < 41 ; i+=2)
+	    if( i % 2 == 0 )
+	    printf("%d " , i );
+}
